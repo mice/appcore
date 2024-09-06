@@ -1,0 +1,15 @@
+{
+    "name": "InputManager",
+    "references": [
+        "GUID:7d522c91d83c42e47a306ccee557c422"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,11 @@
+{
+    "name": "com.app.core",
+    "displayName": "AppCore",
+    "version": "1.0.0",
+    "unity": "2019.2",
+    "keywords": ["AppCore"],
+    "description": ".",
+    "dependencies": {
+       
+    }
+}
